@@ -6,6 +6,7 @@ For each pair, the script's behavior is to search for sequence1 in input file 1 
 # USAGE
 
 Usage: perl Pairwise_SNP_distance_from_fasta -i in.fasta -i2 in.fasta [-r comparisons_to_make.tsv] [-o output_file] [-o2 output_file]
+
 [] means argument is optional
 
 available arguments:
